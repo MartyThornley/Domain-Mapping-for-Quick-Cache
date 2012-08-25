@@ -7,8 +7,9 @@ You can find their original plugin here:
 premium.wpmudev.org/project/domain-mapping/
 
 And my two posts on the fixes:
-http://blogsitedev.com/2012/08/quick-cache-for-domain-mapping/
-http://blogsitedev.com/2012/08/another-fix-for-domain-mapping/
+
+* http://blogsitedev.com/2012/08/quick-cache-for-domain-mapping/
+* http://blogsitedev.com/2012/08/another-fix-for-domain-mapping/
 
 Installation
 ============
